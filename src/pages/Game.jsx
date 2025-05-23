@@ -245,7 +245,7 @@ function Game() {
             color: 'white',
           }}
         >
-          Z/X: 🔄 &nbsp;&nbsp; Arrow keys: ⬅️➡️⬆️⬇️ &nbsp;&nbsp; Enter: ▶️ &nbsp;&nbsp; Shift: ⏸️
+          Z/X: 🔄 &nbsp;&nbsp; Arrow keys: ⬅️➡️⬆️⬇️ &nbsp;&nbsp; Enter: ▶️ &nbsp;&nbsp;
         </p>
       </div>
     </>
